@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.MisterSlime1357.MisterSlime1357"
+    versionCode = "10"
+    version     = "1.2.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Keep Looking</name>
+
+  <description>
+      you're in a maze and you need to escaped but there are monsters and thats all you need to know(and if there are bugs dont bother i wont fix them).
+  </description>
+
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      MisterSlime1357
+  </author>
+
+  <icon scr="icon.png" />
+   
+</widget>
